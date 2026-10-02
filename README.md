@@ -22,4 +22,4 @@ I'm an Information Technology student at Quezon City University and a Full-Stack
 ## 📫 Connect with me
 * **Email: ** (dave.juliales@gmail.com)
 * **LinkedIn: ** (www.linkedin.com/in/christian-dave-juliales-1b5b7a302)
-* [Portfolio](daveloper.vercel.app)
+* [Portfolio](https://daveloper.vercel.app/)
